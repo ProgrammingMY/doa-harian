@@ -321,5 +321,41 @@
             "Dan aku minta ampun dan bertaubat kepada Engkau",
             "Dan Allah rahmatilah Muhammad, Nabi yang ummi dan sejahtera keatas keluarganya dan sahabat-sahabatnya."
         ]
+    },
+    {
+        "id": 11,
+        "doa": "Doa Hindari Rasa Malas",
+        "tag": [
+            "malas",
+            "sedih",
+            "keluh",
+            "gelisah",
+            "hutang",
+            "kedekut",
+            "tindas",
+            "lemah",
+            "takut",
+            "pengecut",
+            "cengkaman"
+        ],
+        "group": "Doa Harian",
+        "arab": [
+            "اَللّٰهُمَّ اِنِّى اَعُوْذُ بِكَ مِنَ الْهَـمِّ وَالْحَزَنِ",
+            "وَاَعُوْذُبِكَ مِنَ الْعَجْـِز وَاْلكَسَلِ",
+            "وَاَعُوْذُبِكَ مِنَ الْجُـبْنِ وَالْبُخْـلِ",
+            "وَاَعُوْذُبِكَ مِنْ غَلَبَتِ الدَّيْنِ وَقَـهْرِ الرِّجَالِ"
+        ],
+        "rumi": [
+            "Allohumma innii a'uudzubika minal hammi wal hazan",
+            "wa a'uudzubika minal 'ajzi walkasal",
+            "wa a'uudzubika minal jubni wa bukhli",
+            "wa a'uudzubika min gholabatid-daini wa qohrirrijaal"
+        ],
+        "makna": [
+            "Ya Allah ya Tuhan kami, sesungguhnya aku berlindung kepada-Mu daripada keluh kesah dan dukacita",
+            "aku berlindung kepada-Mu daripada sifat lemah dan malas",
+            "aku berlindung kepada-Mu daripada sifat pengecut dan kedekut",
+            "aku berlindung kepada-Mu daripada tekanan hutang dan kezaliman manusia"
+        ]
     }
 ]
