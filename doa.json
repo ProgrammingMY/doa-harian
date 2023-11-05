@@ -357,6 +357,173 @@
             "aku berlindung kepada-Mu daripada sifat pengecut dan kedekut",
             "aku berlindung kepada-Mu daripada tekanan hutang dan kezaliman manusia"
         ],
-        "hadis": "HR Abu Dawud 4/353"
+        "rujukan": "HR Abu Dawud 4/353"
+    },
+    {
+        "id": 12,
+        "doa": "Doa Naik Kenderaan",
+        "tag": [
+            "pergi",
+            "kereta",
+            "motor",
+            "motosikal",
+            "moto",
+            "bas",
+            "drive",
+            "ride"
+        ],
+        "group": "Doa Harian",
+        "arab": [
+            "سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ",
+            "وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُونَ"
+        ],
+        "rumi": [
+            "Subhana-alladhi sakh-khara la-na hadha wa ma kunna la-hu muqrinin",
+            "Wa inna ila Rabbi-na la munqalibuun"
+        ],
+        "makna": [
+            "Segala puji bagi Allah, Maha suci tuhan yang telah memudahkan kenderaan ini untuk kami, sedang kami sebelum itu tidak terdaya menguasainya",
+            "dan sesungguhnya kepada Tuhan kamilah, kami akan kembali"
+        ],
+        "rujukan": "Surah Az-Zukhruf 13-14"
+    },
+    {
+        "id": 12,
+        "doa": "Doa Naik Kenderaan",
+        "tag": [
+            "pergi",
+            "kereta",
+            "motor",
+            "motosikal",
+            "moto",
+            "bas",
+            "drive",
+            "ride"
+        ],
+        "group": "Doa Harian",
+        "arab": [
+            "سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ",
+            "وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُونَ"
+        ],
+        "rumi": [
+            "Subhana-alladhi sakh-khara la-na hadha wa ma kunna la-hu muqrinin",
+            "Wa inna ila Rabbi-na la munqalibuun"
+        ],
+        "makna": [
+            "Segala puji bagi Allah, Maha suci tuhan yang telah memudahkan kenderaan ini untuk kami, sedang kami sebelum itu tidak terdaya menguasainya",
+            "dan sesungguhnya kepada Tuhan kamilah, kami akan kembali"
+        ],
+        "rujukan": "Surah Az-Zukhruf 13-14"
+    },
+    {
+        "id": 13,
+        "doa": "Doa Masuk Tandas",
+        "tag": [
+            "toilet",
+            "tandas",
+            "jamban",
+            "hadas",
+            "berak",
+            "kencing"
+        ],
+        "group": "Doa Harian",
+        "arab": [
+            "اللَّهُمَّ إِنِّيْ أَعُوْذُ بِكَ مِنَ الْخُبُثِ وَالْخَبَائِثِ"
+        ],
+        "rumi": [
+            "Allahumma inni a'udzubika minal khubutsi wal khabaa'its"
+        ],
+        "makna": [
+            "Ya Allah aku berlindung denganMu daripada syaitan jantan dan syaitan betina"
+        ],
+        "rujukan": "At-Tirmidhi Book 1 Hadith 6"
+    },
+    {
+        "id": 14,
+        "doa": "Doa Keluar Tandas",
+        "tag": [
+            "toilet",
+            "tandas",
+            "jamban",
+            "hadas",
+            "berak",
+            "kencing"
+        ],
+        "group": "Doa Harian",
+        "arab": [
+            "غُفْرَانَكَ"
+        ],
+        "rumi": [
+            "Ghufranak"
+        ],
+        "makna": [
+            "Aku memohon keampunan-Mu"
+        ],
+        "rujukan": "At-Tirmidhi Book 1 Hadith 7"
+    },
+    {
+        "id": 13,
+        "doa": "Doa Sebelum Tidur",
+        "tag": [
+            "tidur",
+            "ngantuk",
+            "tido",
+            "mamai"
+        ],
+        "group": "Doa Harian",
+        "arab": [
+            "اللَّهُمَّ بِاسْمِكَ أَحْيَا وَأَمُوتُ"
+        ],
+        "rumi": [
+            "Allahumma bismika ahya waamutu"
+        ],
+        "makna": [
+            "Ya Allah! Dengan nama-Mu aku hidup dan aku mati"
+        ],
+        "rujukan": "Riwayat al-Bukhari, no. Hadith 7394"
+    },
+    {
+        "id": 14,
+        "doa": "Doa Bangun Tidur",
+        "tag": [
+            "bangun",
+            "tidur",
+            "terjaga"
+        ],
+        "group": "Doa Harian",
+        "arab": [
+            "الْحَمْدُ لِلَّهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ"
+        ],
+        "rumi": [
+            "Alhamdulillahil lazhi ahyana ba'da ma amatana wa ilaihi-nnushur"
+        ],
+        "makna": [
+            "Segala puji bagi Allah yang telah menghidupkan kami sesudah mati dan hanya kepada-Nya kami dikembalikan"
+        ],
+        "rujukan": "Riwayat al-Bukhari, no. Hadith 7394"
+    },
+    {
+        "id": 15,
+        "doa": "Doa Permudahkan Urusan",
+        "tag": [
+            "urusan",
+            "presentation",
+            "interview",
+            "fasih",
+            "lancar kata",
+            "belajar",
+            "study"
+        ],
+        "group": "Doa Harian",
+        "arab": [
+            "رَبِّ ٱشْرَحْ لِى صَدْرِى وَيَسِّرْ لِىٓ أَمْرِى وَٱحْلُلْ عُقْدَةً مِّن لِّسَانِى يَفْقَهُوا۟ قَوْلِى"
+        ],
+        "rumi": [
+            "Rabbisyrah li sadri wa yassir li amri wahlul 'uqdatam mil lisani yafqahu qauli"
+        ],
+        "makna": [
+            "Ya Tuhanku, lapangkanlah dadaku, dan ringankanlah segala urusanku, dan lepaskanlah kekakuan dari lidahku, agar mereka faham perkataanku"
+        ],
+        "rujukan": "Surah Taha 25-28"
     }
 ]
