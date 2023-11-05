@@ -1,4 +1,4 @@
-# Doa Doa Harian
+# Doa Harian
 
 ## Kumpulan Doa/Bacaan setakat ini
 
