@@ -389,34 +389,6 @@
     },
     {
         "id": 13,
-        "doa": "Doa Naik Kenderaan",
-        "tag": [
-            "pergi",
-            "kereta",
-            "motor",
-            "motosikal",
-            "moto",
-            "bas",
-            "drive",
-            "ride"
-        ],
-        "group": "Doa Harian",
-        "arab": [
-            "سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ",
-            "وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُونَ"
-        ],
-        "rumi": [
-            "Subhana-alladhi sakh-khara la-na hadha wa ma kunna la-hu muqrinin",
-            "Wa inna ila Rabbi-na la munqalibuun"
-        ],
-        "makna": [
-            "Segala puji bagi Allah, Maha suci tuhan yang telah memudahkan kenderaan ini untuk kami, sedang kami sebelum itu tidak terdaya menguasainya",
-            "dan sesungguhnya kepada Tuhan kamilah, kami akan kembali"
-        ],
-        "rujukan": "Surah Az-Zukhruf 13-14"
-    },
-    {
-        "id": 14,
         "doa": "Doa Masuk Tandas",
         "tag": [
             "toilet",
@@ -431,7 +403,7 @@
             "اللَّهُمَّ إِنِّيْ أَعُوْذُ بِكَ مِنَ الْخُبُثِ وَالْخَبَائِثِ"
         ],
         "rumi": [
-            "Allahumma inni a'udzubika minal khubutsi wal khabaa'its"
+            "Allahumma inni a'udzubika minal khubtsi wal khabaa'its"
         ],
         "makna": [
             "Ya Allah aku berlindung denganMu daripada syaitan jantan dan syaitan betina"
@@ -439,7 +411,7 @@
         "rujukan": "At-Tirmidhi Book 1 Hadith 6"
     },
     {
-        "id": 15,
+        "id": 14,
         "doa": "Doa Keluar Tandas",
         "tag": [
             "toilet",
@@ -462,7 +434,7 @@
         "rujukan": "At-Tirmidhi Book 1 Hadith 7"
     },
     {
-        "id": 16,
+        "id": 15,
         "doa": "Doa Sebelum Tidur",
         "tag": [
             "tidur",
@@ -483,7 +455,7 @@
         "rujukan": "Riwayat al-Bukhari, no. Hadith 7394"
     },
     {
-        "id": 17,
+        "id": 16,
         "doa": "Doa Bangun Tidur",
         "tag": [
             "bangun",
@@ -503,7 +475,7 @@
         "rujukan": "Riwayat al-Bukhari, no. Hadith 7394"
     },
     {
-        "id": 18,
+        "id": 17,
         "doa": "Doa Permudahkan Urusan",
         "tag": [
             "urusan",
