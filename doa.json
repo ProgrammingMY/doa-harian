@@ -3,8 +3,7 @@
         "id": 1,
         "doa": "Doa Iftitah",
         "tag": [
-            "Iftitah",
-            "doa"
+            "Iftitah"
         ],
         "group": "Bacaan dalam solat",
         "arab": [
@@ -89,7 +88,6 @@
         "tag": [
             "Iktidal",
             "Bangun",
-            "dari",
             "rukuk"
         ],
         "group": "Bacaan dalam solat",
@@ -107,9 +105,7 @@
         "id": 5,
         "doa": "Bacaan ketika Iktidal",
         "tag": [
-            "Iktidal",
-            "semasa",
-            "ketika"
+            "Iktidal"
         ],
         "group": "Bacaan dalam solat",
         "arab": [
@@ -126,9 +122,7 @@
         "id": 6,
         "doa": "Bacaan ketika sujud",
         "tag": [
-            "Sujud",
-            "ketika",
-            "semasa"
+            "Sujud"
         ],
         "group": "Bacaan dalam solat",
         "arab": [
@@ -145,8 +139,8 @@
         "id": 7,
         "doa": "Bacaan duduk antara dua sujud",
         "tag": [
-            "Duduk",
-            "antara",
+            "duduk",
+            "sujud",
             "dua"
         ],
         "group": "Bacaan dalam solat",
@@ -275,8 +269,7 @@
         "doa": "Doa Qunut",
         "tag": [
             "qunut",
-            "subuh",
-            "doa"
+            "subuh"
         ],
         "group": "Bacaan dalam solat",
         "arab": [
@@ -460,7 +453,8 @@
         "tag": [
             "bangun",
             "tidur",
-            "terjaga"
+            "terjaga",
+            "tido",
         ],
         "group": "Doa Harian",
         "arab": [
@@ -506,7 +500,9 @@
             "israel",
             "perang",
             "jihad",
-            "musuh"
+            "musuh",
+            "nazilah",
+            "qunut",
         ],
         "group": "Bacaan dalam solat",
         "arab": [
