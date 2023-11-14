@@ -536,5 +536,155 @@
             "Yang tewaskan tentera Ahzab, Kalahkan mereka dan kemenangan keatas kami"
         ],
         "rujukan": "Riwayat al-Bukhari, no. Hadith 4090"
+    },
+    {
+        "id": 19,
+        "doa": "Istighfar",
+        "tag": [
+            "istighfar",
+            "taubat",
+            "ampun",
+            "bertaubat",
+            "dosa",
+            "menyesal"
+        ],
+        "group": "Wirid selepas solat",
+        "arab": [
+            "أَسْتَغْفِرُ اللهَ الْعَظِيْمَ الَّذِيْ لَا إِلٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّوْمُ وَأَتُوْبُ إِلَيْهِ"
+        ],
+        "rumi": [
+            "Astaqfirrullahhal-'azim allazii la illaaha illaa huwal-hayyuu qayyuum wa atu-bu'illaihi"
+        ],
+        "makna": [
+            "Aku memohon ampun kepada Allah Yang Maha Agung tiada Tuhan selain Dia, yang hidup lagi sentiasa berkuasa dan aku bertaubat kepada-Nya"
+        ],
+        "rujukan": "https://sunnah.com/tirmidhi:300 Jami' At-Tirmidhi 300"
+    },
+    {
+        "id": 20,
+        "doa": "Pengakuan Tauhid",
+        "tag": [
+            "tauhid"
+        ],
+        "group": "Wirid selepas solat",
+        "arab": [
+            "لَا إِلَهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيكَ لَهُ ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرُ"
+        ],
+        "rumi": [
+            "Laa ilaaha illa Allahu wahdahu laa syariika lah, lahul mulku wa lahul hamdu wa huwa 'ala kulli syai'in qadiir"
+        ],
+        "makna": [
+            "Tidak ada tuhan yang berhak disembah melainkan hanya Allah Yang Maha Esa, tidak ada sekutu bagi-Nya. Bagi-Nya segala kerajaan dan bagi-Nya segala pujian. Dia Maha kuasa atas segala sesuatu"
+        ],
+        "rujukan": "https://sunnah.com/tirmidhi:3474 Jami' At-Tirmidhi 3474"
+    },
+    {
+        "id": 21,
+        "doa": "Mohon Jauhi Api Neraka",
+        "tag": [
+            "Neraka",
+            "Api",
+            "Seksa"
+        ],
+        "group": "Wirid selepas solat",
+        "arab": [
+            "اللَّهُمَّ أجِرْنِي مِنَ النَّارِ"
+        ],
+        "rumi": [
+            "Allahumma ajirni minan naar"
+        ],
+        "makna": [
+            "Ya Allah lepaskan aku dari neraka"
+        ],
+        "rujukan": "https://sunnah.com/abudawud:5079 Sunan Abi Dawud 5079"
+    },
+    {
+        "id": 22,
+        "doa": "Zikir Mohon Keselamatan",
+        "tag": [
+            "antassalam",
+            "anta",
+            "salam"
+        ],
+        "group": "Wirid selepas solat",
+        "arab": [
+            "اللَّهُمَّ أَنْتَ السَّلَامُ، وَمِنْكَ السَّلَامُ، تَبَارَكْتَ يَا ذَا الْجَلَالِ وَالْإِكْرَامِ"
+        ],
+        "rumi": [
+            "Allahumma antassalaam, wa minkas salaam, tabaarakta yaa dzal jalaali wal ikraam"
+        ],
+        "makna": [
+            "Ya Allah, Engkau Mahasejahtera, dan dari-Mu kesejahteraan, Mahasuci Engkau, wahai Rabb Pemilik keagungan dan kemuliaan"
+        ],
+        "rujukan": "https://sunnah.com/tirmidhi:300 Jami' At-Tirmidhi 300"
+    },
+    {
+        "id": 23,
+        "doa": "Ayat Kursi",
+        "tag": [
+            "kursi",
+            "perlindungan",
+            "syaitan",
+            "gangguan"
+        ],
+        "group": "Wirid selepas solat",
+        "arab": [
+            "اللَّهُ لَآ إِلَهَ إِلاَّ هُوَ الْحَيُّ الْقَيُّومُ",
+            "لاَ تَأْخُذُهُ سِنَةٌ وَلاَ نَوْمٌ",
+            "لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي ٱلْأَرْضِ",
+            "مَن ذَا ٱلَّذِي يَشْفَعُ عِندَهُ إِلاَّ بِإِذْنِهِ",
+            "يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ",
+            "وَلاَ يُحِيطُونَ بِشَيْءٍ مِّنْ عِلْمِهِ إِلاَّ بِمَا شَآءَ",
+            "وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَٱلْأَرْضَ",
+            "وَلاَ يَئُودُهُ حِفْظُهُمَا وَهُوَ ٱلْعَلِيُّ ٱلْعَظِيمُ"
+        ],
+        "rumi": [
+            "Allahu laaa ilaaha illaa huwal haiyul qai-yoom",
+            "laa taakhuzuhoo sinatunw wa laa naum",
+            "lahu maa fissamaawaati wa maa fil ard ",
+            "man zallazi yashfa'u indahu illaa bi iznih",
+            "ya'lamu maa baina aidihim wa maa khalfahum",
+            "wa laa yuhiituna bishai 'immin 'ilmihi illa be maa shaa",
+            "wasi'a kursiyyuhus samaa waati wal arda",
+            "wa la ya'uduhu hifzuhumawa huwal aliyyul 'azim"
+        ],
+        "makna": [
+            "Allah, tiada Tuhan (yang berhak disembah) melainkan Dia, Yang Tetap hidup, Yang Kekal selama-lamanya mentadbirkan (sekalian makhlukNya)",
+            "Yang tidak mengantuk usahkan tidur",
+            "Yang memiliki segala yang ada di langit dan yang ada di bumi",
+            "Tiada sesiapa yang dapat memberi syafaat (pertolongan) di sisiNya melainkan dengan izinNya",
+            "yang mengetahui apa yang ada di hadapan mereka dan apa yang ada di belakang mereka",
+            "sedang mereka tidak mengetahui sesuatu pun dari (kandungan) ilmu Allah melainkan apa yang Allah kehendaki (memberitahu kepadanya)",
+            "Luasnya Kursi Allah (ilmuNya dan kekuasaanNya) meliputi langit dan bumi",
+            "dan tiadalah menjadi keberatan kepada Allah menjaga serta memelihara keduanya. Dan Dia lah Yang Maha Tinggi (darjat kemuliaanNya), lagi Maha Besar (kekuasaanNya)"
+        ],
+        "rujukan": "Riwayat al-Nasa'ie di dalam al-Sunan al-Kubra (9848)"
+    },
+    {
+        "id": 24,
+        "doa": "Tasbih Tahmid Takbir",
+        "tag": [
+            "zikir",
+            "tasbih",
+            "tahmid",
+            "takbir"
+        ],
+        "group": "Wirid selepas solat",
+        "arab": [
+            "33x ﺳُﺒْﺤَﺎﻥَ ﺍﻟﻠﻪ",
+            "33x ﺍﻟْﺤَﻤْﺪُ ﻟِﻠَّﻪ",
+            "33x ﺍﻟﻠﻪُ ﺍَﻛْﺒَﺮْ"
+        ],
+        "rumi": [
+            "SubhanAllah",
+            "Alhamdulillah",
+            "Allahu Akbar"
+        ],
+        "makna": [
+            "Maha Suci Allah",
+            "Segala puji bagi Allah",
+            "Allah Maha Besar"
+        ],
+        "rujukan": "https://sunnah.com/muslim:597a Jami' Sahih Muslim 597"
     }
 ]
