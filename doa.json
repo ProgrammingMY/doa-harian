@@ -686,5 +686,49 @@
             "Allah Maha Besar"
         ],
         "rujukan": "https://sunnah.com/muslim:597a Jami' Sahih Muslim 597"
+    },
+    {
+        "id": 25,
+        "doa": "Doa Sebelum Makan",
+        "tag": [
+            "makan",
+            "minum",
+            "lapar",
+            "haus",
+            "parking"
+        ],
+        "group": "Doa Harian",
+        "arab": [
+            "الَّلهُمَّ بَارِكْ لَنَا فِيمَا رَزَقْتَنَا، وَقِنَا عَذَابَ النَّارِ"
+        ],
+        "rumi": [
+            "Allahumma baarik llanaa fiima razaqtanaa waqinaa adzaa ban-naar"
+        ],
+        "makna": [
+            "Ya Allah, berkatilah rezeki yang engkau berikan kepada kami, dan peliharalah kami dari seksa api neraka."
+        ],
+        "rujukan": ""
+    },
+    {
+        "id": 26,
+        "doa": "Doa Selepas Makan",
+        "tag": [
+            "makan",
+            "minum",
+            "lapar",
+            "haus",
+            "parking"
+        ],
+        "group": "Doa Harian",
+        "arab": [
+            "اَلْحَمْدُ ِللهِ الَّذِيْنَ اَطْعَمَنَا وَسَقَانَا وَجَعَلَنَا مِنَ الْمُسْلِمِيْنَ"
+        ],
+        "rumi": [
+            "Alhamdu lillahhil-ladzi ath-amanaa wa saqaana waja’alanaa minal muslimiin"
+        ],
+        "makna": [
+            "Segala puji bagi Allah yang memberi kami makan dan minum serta menjadikan kami muslim"
+        ],
+        "rujukan": ""
     }
 ]
