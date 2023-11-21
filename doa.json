@@ -716,15 +716,14 @@
             "makan",
             "minum",
             "lapar",
-            "haus",
-            "parking"
+            "haus"
         ],
         "group": "Doa Harian",
         "arab": [
-            "اَلْحَمْدُ ِللهِ الَّذِيْنَ اَطْعَمَنَا وَسَقَانَا وَجَعَلَنَا مِنَ الْمُسْلِمِيْنَ"
+            "اَلْحَمْدُ لِلّٰهِ الَّذِيْنَ اَطْعَمَنَا وَسَقَانَا وَجَعَلَنَا مِنَ الْمُسْلِمِيْنَ"
         ],
         "rumi": [
-            "Alhamdu lillahhil-ladzi ath-amanaa wa saqaana waja’alanaa minal muslimiin"
+            "Alhamdu lillahhil-ladzi ath-amanaa wa saqaana waja'alanaa minal muslimiin"
         ],
         "makna": [
             "Segala puji bagi Allah yang memberi kami makan dan minum serta menjadikan kami muslim"
