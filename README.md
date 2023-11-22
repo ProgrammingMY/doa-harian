@@ -9,3 +9,7 @@
 - Doa belajar
 - Qunut Nazilah
 - Wirid selepas solat
+- Doa masuk dan keluar masjid
+- Doa selepas azan
+- Doa makan/minum
+- Doa selepas wuduk
