@@ -13,3 +13,6 @@
 - Doa selepas azan
 - Doa makan/minum
 - Doa selepas wuduk
+- Doa tetapkan iman
+- Doa ibu bapa
+- Doa penyembuh sakit
