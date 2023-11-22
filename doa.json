@@ -729,5 +729,135 @@
             "Segala puji bagi Allah yang memberi kami makan dan minum serta menjadikan kami muslim"
         ],
         "rujukan": ""
+    },
+    {
+        "id": 27,
+        "doa": "Doa Masuk Masjid",
+        "tag": [
+            "masjid",
+            "surau",
+            "solat",
+            "sembahyang"
+        ],
+        "group": "Doa Harian",
+        "arab": [
+            "اللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ"
+        ],
+        "rumi": [
+            "Allahummaf-tahlii abwaaba rohmatik"
+        ],
+        "makna": [
+            "Ya Allah, bukalah untukku pintu-pintu rahmat-Mu"
+        ],
+        "rujukan": ""
+    },
+    {
+        "id": 28,
+        "doa": "Doa Masuk Masjid/Surau",
+        "tag": [
+            "masjid",
+            "surau",
+            "solat",
+            "sembahyang"
+        ],
+        "group": "Doa Harian",
+        "arab": [
+            "اللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ"
+        ],
+        "rumi": [
+            "Allahummaf-tahlii abwaaba rohmatik"
+        ],
+        "makna": [
+            "Ya Allah, bukalah untukku pintu-pintu rahmat-Mu"
+        ],
+        "rujukan": "https://sunnah.com/muslim:713a Sahih Muslim 713a"
+    },
+    {
+        "id": 29,
+        "doa": "Doa Keluar Masjid/Surau",
+        "tag": [
+            "masjid",
+            "surau",
+            "solat",
+            "sembahyang"
+        ],
+        "group": "Doa Harian",
+        "arab": [
+            "اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ فَضْلِكَ"
+        ],
+        "rumi": [
+            "Allahumma inni as aluka min fadhlik"
+        ],
+        "makna": [
+            "Ya Allah, sesungguhnya aku memohon fadilah kepada-Mu"
+        ],
+        "rujukan": "https://sunnah.com/muslim:713a Sahih Muslim 713a"
+    },
+    {
+        "id": 30,
+        "doa": "Doa Selepas Azan",
+        "tag": [
+            "azan",
+            "iqamah",
+            "solat",
+            "sembahyang"
+        ],
+        "group": "Doa Harian",
+        "arab": [
+            "اللَّهُمَّ رَبَّ هَذِهِ الدَّعْوَةِ التَّآمَّةِ",
+            "وَالصَّلاَةِ الْقَائِمَةِ",
+            "آتِ سَيِّدَنَا مُحَمَّدًا الْوَسِيْلَةَ وَالْفَضِيْلَةَ",
+            "وَابْعَثْهُ مَقَامًا مَحْمُودًا الَّذِي وَعَدْتَّهُ",
+            "اِنَكَ لَا تُخْلِفُ الْمِيْعَا"
+        ],
+        "rumi": [
+            "Allahumma rabba hazihid da watittamah",
+            "Wassolatil qaimah",
+            "Ati saiyidana Muhammadanil wasilata wal fadhilah",
+            "Wab'athhul maqamal mahmudal lazi wa'adtah",
+            "Innaka laatukhliful mi'ad"
+        ],
+        "makna": [
+            "Ya Allah, Tuhan yang telah mensyariatkan seruan azan",
+            "dan sembahyang yang akan didirikan",
+            "kurniakanlah kepada Nabi Muhammad kemuliaan dan keutamaan",
+            "dan kurniakan kepada Baginda tempat terpuji sebagaimana yang Engkau janjikan",
+            "Sesungguhnya Engkau tidak memungkiri janji"
+        ],
+        "rujukan": "https://sunnah.com/bukhari:614 Sahih al-Bukhari 614"
+    },
+    {
+        "id": 31,
+        "doa": "Doa Selepas Wuduk",
+        "tag": [
+            "wuduk",
+            "wudhuk",
+            "solat",
+            "sembahyang"
+        ],
+        "group": "Doa Harian",
+        "arab": [
+            "أَشْهَدُ أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ",
+            "وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُ اللَّهِ وَرَسُولُهُ",
+            "اَللَّهُمَّ اجْعَلْنِيْ مِنَ التَّوَّابِيْنَ",
+            "وَاجْعَلْنِيْ مِنَ الْمُتَطَهِّرِيْنَ",
+            "وَاجْعَلْنِيْ مِنْ عِبَادِكَ الصَّالِحِيْنَ"
+        ],
+        "rumi": [
+            "Asy hadu an laa Ilaha illallah",
+            "Wa asy hadu anna Muhammadan 'abduhu warasuluh",
+            "Allahummaj 'alni minat tauwabin",
+            "waj 'alni minal mutatahhirin",
+            "Waj 'alni min 'ibadikas solihin"
+        ],
+        "makna": [
+            "Aku bersaksi tidak ada Tuhan melainkan Allah",
+            "dan aku bersaksi bahawa Nabi Muhammad itu hamba dan utusan Nya",
+            "Ya Allah, jadikan aku daripada golongan orang yang bertaubat kepada Mu",
+            "dan jadikanlah aku daripada golongan orang yang bersih",
+            "dan jadikan aku daripada golongan hamba Mu yang soleh"
+        ],
+        "rujukan": "Sahih Muslim 234a",
+        "link": "https://sunnah.com/muslim:234a"
     }
 ]
