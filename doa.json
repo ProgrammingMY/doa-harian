@@ -732,24 +732,24 @@
     },
     {
         "id": 27,
-        "doa": "Doa Masuk Masjid",
+        "doa": "Doa Keluar Rumah",
         "tag": [
-            "masjid",
-            "surau",
-            "solat",
-            "sembahyang"
+            "rumah",
+            "jalan",
+            "keluar"
         ],
         "group": "Doa Harian",
         "arab": [
-            "اللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ"
+            "بِسْمِ اللَّهِ تَوَكَّلْتُ عَلَى اللَّهِ لاَ حَوْلَ وَلاَ قُوَّةَ إِلاَّ بِاللَّهِ"
         ],
         "rumi": [
-            "Allahummaf-tahlii abwaaba rohmatik"
+            "Bismillaahi tawakkaltu 'ala Allah laa haula walaa quwwata illaa billaah"
         ],
         "makna": [
-            "Ya Allah, bukalah untukku pintu-pintu rahmat-Mu"
+            "Dengan nama Allah, aku bertawakkal kepada Allah. Tiada daya dan kekuatan kecuali dengan Allah"
         ],
-        "rujukan": ""
+        "rujukan": "Sunan Abi Dawud 5095",
+        "link": "https://sunnah.com/abudawud:5095"
     },
     {
         "id": 28,
@@ -859,5 +859,84 @@
         ],
         "rujukan": "Sahih Muslim 234a",
         "link": "https://sunnah.com/muslim:234a"
+    },
+    {
+        "id": 32,
+        "doa": "Doa Menyembuh Sakit",
+        "tag": [
+            "sakit",
+            "demam",
+            "sihat",
+            "melawat",
+            "ziarah"
+        ],
+        "group": "Doa Harian",
+        "arab": [
+            "اللَّهُمَّ رَبَّ النَّاسِ أَذْهِبِ الْبَاسَ",
+            "اشْفِهِ وَأَنْتَ الشَّافِي",
+            "لاَ شِفَاءَ إِلاَّ شِفَاؤُكَ",
+            "شِفَاءً لاَ يُغَادِرُ سَقَمًا"
+        ],
+        "rumi": [
+            "Allahumma rabban nasi, adzhibil ba'sa",
+            "Isyfihi wa antas syafi",
+            "la syifa'a illa syifauk",
+            "syifa'an la yughadiru saqaman"
+        ],
+        "makna": [
+            "Ya Allah, Tuan sekalian manusia, Tuhan yang menyembuh penyakit",
+            "sembuhkanlah penyakit hamba-Mu ini kerana Engkaulah Maha Penyembuh",
+            "yiada yang menyembuhkan melainkan penyembuhan daripada-Mu",
+            "jadikanlah ia penyembuhan yang tidak diulangi dengan penyakit lagi"
+        ],
+        "rujukan": "Sahih al-Bukhari 5743",
+        "link": "https://sunnah.com/bukhari:5743"
+    },
+    {
+        "id": 33,
+        "doa": "Doa Ketetapan Hati/Iman",
+        "tag": [
+            "tetap",
+            "hati",
+            "iman",
+            "ragu",
+            "buntu"
+        ],
+        "group": "Doa Harian",
+        "arab": [
+            "يَا مُقَلِّبَ الْقُلُوبِ ثَبِّتْ قَلْبِي عَلَى دِينِكَ"
+        ],
+        "rumi": [
+            "Ya muqallibal quluub tsabbit qolbii 'alaa diinik"
+        ],
+        "makna": [
+            "Wahai Tuhan yang membolak-balikkan hati, teguhkanlah hatiku di atas agama-Mu"
+        ],
+        "rujukan": "Jami` at-Tirmidhi 3522",
+        "link": "https://sunnah.com/tirmidhi:3522"
+    },
+    {
+        "id": 34,
+        "doa": "Doa Kepada Ibu Bapa",
+        "tag": [
+            "ibu",
+            "abah",
+            "mak",
+            "bapa",
+            "mama",
+            "papa"
+        ],
+        "group": "Doa Harian",
+        "arab": [
+            "رَبَّنَا ٱغْفِرْ لِى وَلِوَالِدَىَّ وَلِلْمُؤْمِنِينَ يَوْمَ يَقُومُ ٱلْحِسَابُ"
+        ],
+        "rumi": [
+            "Rabbanaghfir li waliwaa lidaiya wa lil mukminina yauma yaqumul hissab"
+        ],
+        "makna": [
+            "Wahai Tuhan kami! Berilah ampun bagiku dan bagi kedua ibu bapaku serta bagi orang-orang yang beriman, pada masa berlakunya hitungan amal dan pembalasan"
+        ],
+        "rujukan": "Surah Ibrahim 41",
+        "link": "https://quran.com/ms/ibrahim/41"
     }
 ]
