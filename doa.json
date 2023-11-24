@@ -862,7 +862,7 @@
     },
     {
         "id": 32,
-        "doa": "Doa Menyembuh Sakit",
+        "doa": "Doa Sembuh Penyakit",
         "tag": [
             "sakit",
             "demam",
@@ -938,5 +938,62 @@
         ],
         "rujukan": "Surah Ibrahim 41",
         "link": "https://quran.com/ms/ibrahim/41"
+    },
+    {
+        "id": 35,
+        "doa": "Doa Berlindung dari 4 perkara",
+        "tag": [
+            "seksa",
+            "kubur",
+            "dajjal",
+            "hidup",
+            "mati",
+            "fitnah",
+            "azab",
+            "nereka"
+        ],
+        "group": "Doa Harian",
+        "arab": [
+            "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ عَذَابِ جَهَنَّمَ",
+            "وَمِنْ عَذَابِ الْقَبْرِ",
+            "وَمِنْ فِتْنَةِ الْمَحْيَا وَالْمَمَاتِ",
+            "وَمِنْ شَرِّ فِتْنَةِ الْمَسِيحِ الدَّجَّالِ"
+        ],
+        "rumi": [
+            "Allaahumma inni a'uudzubika min 'adzaabi jahannam",
+            "wa min 'adzaabil qabri",
+            "wa min fitnatil mahyaa wal mamaat",
+            "wa min syarri fit-natil masiihid dajjaal"
+        ],
+        "makna": [
+            "Ya Allah, aku berlindung kepada-Mu dari azab neraka jahannam",
+            "dari azab seksa kubur",
+            "dari fitnah semasa hidup dan mati",
+            "dari kejahatan fitnah Al-Masih Ad-Dajjal"
+        ],
+        "rujukan": "Sahih Muslim 588a",
+        "link": "https://sunnah.com/muslim:588a"
+    },
+    {
+        "id": 36,
+        "doa": "Doa Wasiat Rasullulah",
+        "tag": [
+            "syukur",
+            "zikir",
+            "ibadah",
+            "wasiat"
+        ],
+        "group": "Doa Harian",
+        "arab": [
+            "اللَّهُمَّ أَعِنِّي عَلَى ذِكْرِكَ وَشُكْرِكَ وَحُسْنِ عِبَادَتِكَ"
+        ],
+        "rumi": [
+            "Allahumma A'inni 'Alaa Zikrika wa Syukrika wa Husni 'Ibaadatik"
+        ],
+        "makna": [
+            "Ya Allah, tolonglah aku dalam berzikir, bersyukur, dan beribadah yang baik kepadaMu"
+        ],
+        "rujukan": "Sunan Abi Dawud 1522",
+        "link": "https://sunnah.com/abudawud:1522"
     }
 ]
