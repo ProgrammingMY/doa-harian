@@ -16,3 +16,5 @@
 - Doa tetapkan iman
 - Doa ibu bapa
 - Doa penyembuh sakit
+- Doa buka puasa
+- Berbagai jenis selawat
