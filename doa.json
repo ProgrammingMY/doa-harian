@@ -317,7 +317,7 @@
     },
     {
         "id": 11,
-        "doa": "Doa Hindari Rasa Malas",
+        "doa": "Doa Hindari Malas, Takut, Sedih, Hutang",
         "tag": [
             "malas",
             "sedih",
@@ -478,7 +478,8 @@
             "fasih",
             "lancar kata",
             "belajar",
-            "study"
+            "study",
+            "kerja"
         ],
         "group": "Doa Harian",
         "arab": [
@@ -1145,7 +1146,8 @@
             "rezeki",
             "sukar",
             "susah",
-            "hajat"
+            "hajat",
+            "tenang"
         ],
         "group": "Selawat",
         "arab": [
