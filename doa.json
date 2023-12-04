@@ -26,7 +26,9 @@
             "dengan kepatuhan dan aku bukanlah dari kaum yang menyekutukan Allah",
             "sesungguhnya shalatku ibadahku hidupku dan matiku hanyalah milik Allah, Tuhan pemilik alam",
             "Tidak ada sekutu bagi-Nya dan demikianlah aku diperintahkan dan aku termasuk dari golongan kaum muslimin"
-        ]
+        ],
+        "rujukan": "",
+        "link": ""
     },
     {
         "id": 2,
@@ -63,7 +65,9 @@
             "Hanya Engkaulah yang kami sembah dan hanya kepada Engkau kami mohon pertolongan",
             "Tunjuklah kami jalan yang lurus",
             "Iaitu jalan orang-orang yang Engkau kurniakan nikmat kepada mereka, bukan jalan mereka yang Engkau murkai dan bukan jalan mereka yang sesat"
-        ]
+        ],
+        "rujukan": "",
+        "link": ""
     },
     {
         "id": 3,
@@ -80,7 +84,9 @@
         ],
         "makna": [
             "Maha Suci TuhanKu Yang Maha Mulia dan dengan segala puji-pujiannya"
-        ]
+        ],
+        "rujukan": "",
+        "link": ""
     },
     {
         "id": 4,
@@ -99,7 +105,9 @@
         ],
         "makna": [
             "Allah mendengar pujian orang yang memujinya"
-        ]
+        ],
+        "rujukan": "",
+        "link": ""
     },
     {
         "id": 5,
@@ -116,7 +124,9 @@
         ],
         "makna": [
             "Wahai Tuhan kami, bagi Engkaulah segala pujian"
-        ]
+        ],
+        "rujukan": "",
+        "link": ""
     },
     {
         "id": 6,
@@ -133,7 +143,9 @@
         ],
         "makna": [
             "Maha suci TuhanKu yang Maha Tinggi dan dengan segala puji-pujiannya"
-        ]
+        ],
+        "rujukan": "",
+        "link": ""
     },
     {
         "id": 7,
@@ -170,7 +182,9 @@
             "rezekikan daku",
             "berilah aku hidayah",
             "sihatkanlah daku dan maafkanlah akan daku."
-        ]
+        ],
+        "rujukan": "",
+        "link": ""
     },
     {
         "id": 8,
@@ -204,7 +218,9 @@
             "Aku naik saksi bahawa tiada Tuhan melainkan Allah",
             "dan aku naik saksi bahawasanya Muhammad itu adalah pesuruh Allah",
             "Ya Tuhan kami, selawatkanlah ke atas Nabi Muhammad."
-        ]
+        ],
+        "rujukan": "",
+        "link": ""
     },
     {
         "id": 9,
@@ -262,7 +278,9 @@
             "sebagaimana Engkau berkati ke atas Ibrahim",
             "dan atas keluarga Ibrahim",
             "di dalam alam ini. Sesungguhnya Engkau Maha Terpuji lagi Maha Agung."
-        ]
+        ],
+        "rujukan": "",
+        "link": ""
     },
     {
         "id": 10,
@@ -313,7 +331,9 @@
             "Hanya untuk Engkau sahajalah segala macam puji terhadap apa-apa yang telah Engkau tetapkan",
             "Dan aku minta ampun dan bertaubat kepada Engkau",
             "Dan Allah rahmatilah Muhammad, Nabi yang ummi dan sejahtera keatas keluarganya dan sahabat-sahabatnya."
-        ]
+        ],
+        "rujukan": "",
+        "link": ""
     },
     {
         "id": 11,
@@ -350,7 +370,8 @@
             "aku berlindung kepada-Mu daripada sifat pengecut dan kedekut",
             "aku berlindung kepada-Mu daripada tekanan hutang dan kezaliman manusia"
         ],
-        "rujukan": "HR Abu Dawud 4/353"
+        "rujukan": "Sahih al-Bukhari 6369",
+        "link": "https://sunnah.com/bukhari:6369"
     },
     {
         "id": 12,
@@ -378,7 +399,8 @@
             "Segala puji bagi Allah, Maha suci tuhan yang telah memudahkan kenderaan ini untuk kami, sedang kami sebelum itu tidak terdaya menguasainya",
             "dan sesungguhnya kepada Tuhan kamilah, kami akan kembali"
         ],
-        "rujukan": "Surah Az-Zukhruf 13-14"
+        "rujukan": "Surah Az-Zukhruf 13-14",
+        "link": "https://quran.com/ms/az-zukhruf/13-14"
     },
     {
         "id": 13,
@@ -401,7 +423,8 @@
         "makna": [
             "Ya Allah aku berlindung denganMu daripada syaitan jantan dan syaitan betina"
         ],
-        "rujukan": "At-Tirmidhi Book 1 Hadith 6"
+        "rujukan": "At-Tirmidhi Book 1 Hadith 6",
+        "link": "https://quran.com/ms/az-zukhruf/13-14"
     },
     {
         "id": 14,
@@ -424,7 +447,8 @@
         "makna": [
             "Aku memohon keampunan-Mu"
         ],
-        "rujukan": "At-Tirmidhi Book 1 Hadith 7"
+        "rujukan": "At-Tirmidhi Book 1 Hadith 7",
+        "link": "https://sunnah.com/tirmidhi:7"
     },
     {
         "id": 15,
@@ -445,7 +469,8 @@
         "makna": [
             "Ya Allah! Dengan nama-Mu aku hidup dan aku mati"
         ],
-        "rujukan": "Riwayat al-Bukhari, no. Hadith 7394"
+        "rujukan": "Riwayat al-Bukhari, no. Hadith 7394",
+        "link": "https://sunnah.com/bukhari:7394"
     },
     {
         "id": 16,
@@ -466,7 +491,8 @@
         "makna": [
             "Segala puji bagi Allah yang telah menghidupkan kami sesudah mati dan hanya kepada-Nya kami dikembalikan"
         ],
-        "rujukan": "Riwayat al-Bukhari, no. Hadith 7394"
+        "rujukan": "Riwayat al-Bukhari, no. Hadith 7394",
+        "link": "https://sunnah.com/bukhari:7394"
     },
     {
         "id": 17,
@@ -491,7 +517,8 @@
         "makna": [
             "Ya Tuhanku, lapangkanlah dadaku, dan ringankanlah segala urusanku, dan lepaskanlah kekakuan dari lidahku, agar mereka faham perkataanku"
         ],
-        "rujukan": "Surah Taha 25-28"
+        "rujukan": "Surah Taha 25-28",
+        "link": "https://quran.com/ms/taha/25-28"
     },
     {
         "id": 18,
@@ -536,7 +563,8 @@
             "Ya Allah yang turunkan kitab, Yang gerakkan awan",
             "Yang tewaskan tentera Ahzab, Kalahkan mereka dan kemenangan keatas kami"
         ],
-        "rujukan": "Riwayat al-Bukhari, no. Hadith 4090"
+        "rujukan": "Riwayat al-Bukhari, no. Hadith 4090",
+        "link": "https://sunnah.com/bukhari:4090"
     },
     {
         "id": 19,
@@ -559,7 +587,8 @@
         "makna": [
             "Aku memohon ampun kepada Allah Yang Maha Agung tiada Tuhan selain Dia, yang hidup lagi sentiasa berkuasa dan aku bertaubat kepada-Nya"
         ],
-        "rujukan": "https://sunnah.com/tirmidhi:300 Jami' At-Tirmidhi 300"
+        "rujukan": "Jami' At-Tirmidhi 300",
+        "link": "https://sunnah.com/tirmidhi:300"
     },
     {
         "id": 20,
@@ -577,7 +606,8 @@
         "makna": [
             "Tidak ada tuhan yang berhak disembah melainkan hanya Allah Yang Maha Esa, tidak ada sekutu bagi-Nya. Bagi-Nya segala kerajaan dan bagi-Nya segala pujian. Dia Maha kuasa atas segala sesuatu"
         ],
-        "rujukan": "https://sunnah.com/tirmidhi:3474 Jami' At-Tirmidhi 3474"
+        "rujukan": "Jami' At-Tirmidhi 3474",
+        "link": "https://sunnah.com/tirmidhi:3474"
     },
     {
         "id": 21,
@@ -597,7 +627,8 @@
         "makna": [
             "Ya Allah lepaskan aku dari neraka"
         ],
-        "rujukan": "https://sunnah.com/abudawud:5079 Sunan Abi Dawud 5079"
+        "rujukan": "Sunan Abi Dawud 5079",
+        "link": "https://sunnah.com/abudawud:5079"
     },
     {
         "id": 22,
@@ -617,7 +648,8 @@
         "makna": [
             "Ya Allah, Engkau Mahasejahtera, dan dari-Mu kesejahteraan, Mahasuci Engkau, wahai Rabb Pemilik keagungan dan kemuliaan"
         ],
-        "rujukan": "https://sunnah.com/tirmidhi:300 Jami' At-Tirmidhi 300"
+        "rujukan": "Jami' At-Tirmidhi 300",
+        "link": "https://sunnah.com/tirmidhi:300"
     },
     {
         "id": 23,
@@ -659,7 +691,8 @@
             "Luasnya Kursi Allah (ilmuNya dan kekuasaanNya) meliputi langit dan bumi",
             "dan tiadalah menjadi keberatan kepada Allah menjaga serta memelihara keduanya. Dan Dia lah Yang Maha Tinggi (darjat kemuliaanNya), lagi Maha Besar (kekuasaanNya)"
         ],
-        "rujukan": "Riwayat al-Nasa'ie di dalam al-Sunan al-Kubra (9848)"
+        "rujukan": "Riwayat al-Nasa'ie di dalam al-Sunan al-Kubra (9848)",
+        "link": "https://muftiwp.gov.my/ms/artikel/irsyad-al-hadith/1446-irsyad-al-hadith-siri-ke-136-kelebihan-membaca-ayat-al-kursi"
     },
     {
         "id": 24,
@@ -686,7 +719,8 @@
             "Segala puji bagi Allah",
             "Allah Maha Besar"
         ],
-        "rujukan": "https://sunnah.com/muslim:597a Jami' Sahih Muslim 597"
+        "rujukan": "Jami' Sahih Muslim 597",
+        "link": "https://sunnah.com/muslim:597a"
     },
     {
         "id": 25,
@@ -695,20 +729,20 @@
             "makan",
             "minum",
             "lapar",
-            "haus",
-            "parking"
+            "haus"
         ],
         "group": "Doa Harian",
         "arab": [
-            "الَّلهُمَّ بَارِكْ لَنَا فِيمَا رَزَقْتَنَا، وَقِنَا عَذَابَ النَّارِ"
+            "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِیْمِ"
         ],
         "rumi": [
-            "Allahumma baarik llanaa fiima razaqtanaa waqinaa adzaa ban-naar"
+            "Bismillah hir-rohmaa nir-rohim"
         ],
         "makna": [
-            "Ya Allah, berkatilah rezeki yang engkau berikan kepada kami, dan peliharalah kami dari seksa api neraka."
+            "Dengan nama Allah yang maha Pemurah lagi maha Mengasihani"
         ],
-        "rujukan": ""
+        "rujukan": "Sahih al-Bukhari 5376",
+        "link": "https://sunnah.com/bukhari:5376"
     },
     {
         "id": 26,
@@ -729,7 +763,8 @@
         "makna": [
             "Segala puji bagi Allah yang memberi kami makan dan minum serta menjadikan kami muslim"
         ],
-        "rujukan": ""
+        "rujukan": "Jami` at-Tirmidhi 3457",
+        "link": "https://sunnah.com/tirmidhi:3457"
     },
     {
         "id": 27,
@@ -771,7 +806,8 @@
         "makna": [
             "Ya Allah, bukalah untukku pintu-pintu rahmat-Mu"
         ],
-        "rujukan": "https://sunnah.com/muslim:713a Sahih Muslim 713a"
+        "rujukan": "Sahih Muslim 713a",
+        "link": "https://sunnah.com/muslim:713a"
     },
     {
         "id": 29,
@@ -792,7 +828,8 @@
         "makna": [
             "Ya Allah, sesungguhnya aku memohon fadilah kepada-Mu"
         ],
-        "rujukan": "https://sunnah.com/muslim:713a Sahih Muslim 713a"
+        "rujukan": "Sahih Muslim 713a",
+        "link": "https://sunnah.com/muslim:713a"
     },
     {
         "id": 30,
@@ -825,7 +862,8 @@
             "dan kurniakan kepada Baginda tempat terpuji sebagaimana yang Engkau janjikan",
             "Sesungguhnya Engkau tidak memungkiri janji"
         ],
-        "rujukan": "https://sunnah.com/bukhari:614 Sahih al-Bukhari 614"
+        "rujukan": "Sahih al-Bukhari 614",
+        "link": "https://sunnah.com/bukhari:614"
     },
     {
         "id": 31,
