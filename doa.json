@@ -1285,5 +1285,48 @@
         ],
         "rujukan": "Sunan Abi Dawud 2357",
         "link": "https://sunnah.com/abudawud:2357"
+    },
+    {
+        "id": 45,
+        "doa": "Zikir Berat Timbangan",
+        "tag": [
+            "mizan",
+            "berat",
+            "timbangan",
+            "lidah"
+        ],
+        "group": "Zikir",
+        "arab": [
+            "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ سُبْحَانَ اللَّهِ العَظِيْمِ"
+        ],
+        "rumi": [
+            "Subhanallah wabihamdihi, Subhanallahil 'Azhim"
+        ],
+        "makna": [
+            "Mahasuci Allah dan segala puji bagi-Nya, Mahasuci Allah Yang Maha Agung"
+        ],
+        "rujukan": "Rasulullah SAW bersabda: 'Dua kalimat yang ringan diucapkan lidah, berat dalam timbangan, dan disukai oleh (Allah) Yang Maha Pengasih'",
+        "link": "https://sunnah.com/riyadussalihin:1408"
+    },
+    {
+        "id": 46,
+        "doa": "Zikir 100 Kebaikan",
+        "tag": [
+            "kebaikan",
+            "keburukan",
+            "perlindungan",
+            "lindungan",
+            "syaitan"
+        ],
+        "group": "Zikir",
+        "arab": ["لاَ إِلَهَ إِلاَّ اللَّهُ وَحْدَهُ لاَ شَرِيكَ لَهُ، لَهُ الْمُلْكُ، وَلَهُ الْحَمْدُ، وَهُوَ عَلَى كُلِّ شَىْءٍ قَدِيرٌ"],
+        "rumi": [
+            "La ilaha illallahu wahdahu la sharika lah, lahul mulku wa lahul hamdu wa huwa 'ala kulli shai in qadir"
+        ],
+        "makna": [
+            "Tidak ada Tuhan Selain Allah, tidak ada sekutu bagi-Nya, milik-Nya segala kekuasaan dan bagi-Nya segala pujian. Dia Mahakuasa atas segala sesuatu"
+        ],
+        "rujukan": "Kelebihan zikir ini. 1. Pahala seperti memerdekakan 10 orang hamba. 2. Mendapat 100 kebaikan dan dijauhkan 100 keburukan 3. Dilindungkan daripada syaitan dari pagi hingga ke petang ",
+        "link": "https://sunnah.com/riyadussalihin:1410"
     }
 ]
