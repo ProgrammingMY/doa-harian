@@ -1264,5 +1264,26 @@
         ],
         "rujukan": "",
         "link": ""
+    },
+    {
+        "id": 44,
+        "doa": "Doa Buka Puasa 2",
+        "tag": [
+            "puasa",
+            "makan",
+            "buka"
+        ],
+        "group": "Doa Harian",
+        "arab": [
+            "ذَهَبَ الظَّمَأُ وَابْتَلَّتِ الْعُرُوقُ وَثَبَتَ الأَجْرُ إِنْ شَاءَ اللَّهُ"
+        ],
+        "rumi": [
+            "Dzahabaz Zhoma-U WabTallatil 'Uruuqu Wa Tasbatal Ajru In Sha Allah"
+        ],
+        "makna": [
+            "Telah hilang dahaga, urat-urat telah basah dan telah diraih pahala, In Sha Allah"
+        ],
+        "rujukan": "Sunan Abi Dawud 2357",
+        "link": "https://sunnah.com/abudawud:2357"
     }
 ]
