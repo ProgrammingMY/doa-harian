@@ -36,7 +36,7 @@
         "tag": [
             "Surah",
             "Fatihah",
-            "Al Fatihah"
+            "Al"
         ],
         "group": "Bacaan dalam solat",
         "arab": [
@@ -384,7 +384,8 @@
             "moto",
             "bas",
             "drive",
-            "ride"
+            "ride",
+            "kenderaan"
         ],
         "group": "Doa Harian",
         "arab": [
@@ -505,7 +506,8 @@
             "lancar kata",
             "belajar",
             "study",
-            "kerja"
+            "kerja",
+            "mudah"
         ],
         "group": "Doa Harian",
         "arab": [
@@ -636,7 +638,9 @@
         "tag": [
             "antassalam",
             "anta",
-            "salam"
+            "salam",
+            "keselamatan",
+            "selamat"
         ],
         "group": "Wirid selepas solat",
         "arab": [
@@ -907,7 +911,9 @@
             "demam",
             "sihat",
             "melawat",
-            "ziarah"
+            "ziarah",
+            "sembuh",
+            "penyakit"
         ],
         "group": "Doa Harian",
         "arab": [
@@ -939,7 +945,8 @@
             "hati",
             "iman",
             "ragu",
-            "buntu"
+            "buntu",
+            "ketetapan"
         ],
         "group": "Doa Harian",
         "arab": [
@@ -1064,7 +1071,8 @@
             "makan",
             "buka",
             "lapar",
-            "haus"
+            "haus",
+            "lupa"
         ],
         "group": "Doa Harian",
         "arab": [
@@ -1109,7 +1117,9 @@
             "pembuka",
             "rezeki",
             "hajat",
-            "tertutup"
+            "tertutup",
+            "fatih",
+            "fateh"
         ],
         "group": "Selawat",
         "arab": [
@@ -1146,7 +1156,8 @@
             "selawat",
             "sembuh",
             "penyakit",
-            "sakit"
+            "sakit",
+            "syifa"
         ],
         "group": "Selawat",
         "arab": [
@@ -1185,7 +1196,8 @@
             "sukar",
             "susah",
             "hajat",
-            "tenang"
+            "tenang",
+            "tafrijiyyah"
         ],
         "group": "Selawat",
         "arab": [
@@ -1244,7 +1256,8 @@
             "dosa",
             "kabul",
             "kesenangan",
-            "mulia"
+            "mulia",
+            "kedudukan"
         ],
         "group": "Selawat",
         "arab": [
