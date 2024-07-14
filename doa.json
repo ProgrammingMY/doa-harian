@@ -1,6 +1,6 @@
 [
     {
-        "id": 1,
+        "id": "1",
         "doa": "Doa Iftitah",
         "tag": [
             "Iftitah"
@@ -31,7 +31,7 @@
         "link": ""
     },
     {
-        "id": 2,
+        "id": "2",
         "doa": "Al Fatihah",
         "tag": [
             "Surah",
@@ -70,7 +70,7 @@
         "link": ""
     },
     {
-        "id": 3,
+        "id": "3",
         "doa": "Bacaan Rukuk",
         "tag": [
             "Rukuk"
@@ -89,7 +89,7 @@
         "link": ""
     },
     {
-        "id": 4,
+        "id": "4",
         "doa": "Bacaan bangun dari rukuk",
         "tag": [
             "Iktidal",
@@ -110,7 +110,7 @@
         "link": ""
     },
     {
-        "id": 5,
+        "id": "5",
         "doa": "Bacaan ketika Iktidal",
         "tag": [
             "Iktidal"
@@ -129,7 +129,7 @@
         "link": ""
     },
     {
-        "id": 6,
+        "id": "6",
         "doa": "Bacaan ketika sujud",
         "tag": [
             "Sujud"
@@ -148,7 +148,7 @@
         "link": ""
     },
     {
-        "id": 7,
+        "id": "7",
         "doa": "Bacaan duduk antara dua sujud",
         "tag": [
             "duduk",
@@ -187,7 +187,7 @@
         "link": ""
     },
     {
-        "id": 8,
+        "id": "8",
         "doa": "Bacaan Tahiyat Awal",
         "tag": [
             "Tahiyat",
@@ -223,7 +223,7 @@
         "link": ""
     },
     {
-        "id": 9,
+        "id": "9",
         "doa": "Bacaan Tahiyat Akhir",
         "tag": [
             "tahiyat",
@@ -283,7 +283,7 @@
         "link": ""
     },
     {
-        "id": 10,
+        "id": "10",
         "doa": "Doa Qunut",
         "tag": [
             "qunut",
@@ -336,7 +336,7 @@
         "link": ""
     },
     {
-        "id": 11,
+        "id": "11",
         "doa": "Doa Hindari Malas, Takut, Sedih, Hutang",
         "tag": [
             "malas",
@@ -374,7 +374,7 @@
         "link": "https://sunnah.com/bukhari:6369"
     },
     {
-        "id": 12,
+        "id": "12",
         "doa": "Doa Naik Kenderaan",
         "tag": [
             "pergi",
@@ -404,7 +404,7 @@
         "link": "https://quran.com/ms/az-zukhruf/13-14"
     },
     {
-        "id": 13,
+        "id": "13",
         "doa": "Doa Masuk Tandas",
         "tag": [
             "toilet",
@@ -428,7 +428,7 @@
         "link": "https://quran.com/ms/az-zukhruf/13-14"
     },
     {
-        "id": 14,
+        "id": "14",
         "doa": "Doa Keluar Tandas",
         "tag": [
             "toilet",
@@ -452,7 +452,7 @@
         "link": "https://sunnah.com/tirmidhi:7"
     },
     {
-        "id": 15,
+        "id": "15",
         "doa": "Doa Sebelum Tidur",
         "tag": [
             "tidur",
@@ -474,7 +474,7 @@
         "link": "https://sunnah.com/bukhari:7394"
     },
     {
-        "id": 16,
+        "id": "16",
         "doa": "Doa Bangun Tidur",
         "tag": [
             "bangun",
@@ -496,7 +496,7 @@
         "link": "https://sunnah.com/bukhari:7394"
     },
     {
-        "id": 17,
+        "id": "17",
         "doa": "Doa Permudahkan Urusan",
         "tag": [
             "urusan",
@@ -523,7 +523,7 @@
         "link": "https://quran.com/ms/taha/25-28"
     },
     {
-        "id": 18,
+        "id": "18",
         "doa": "Doa Qunut Nazilah",
         "tag": [
             "palestin",
@@ -569,7 +569,7 @@
         "link": "https://sunnah.com/bukhari:4090"
     },
     {
-        "id": 19,
+        "id": "19",
         "doa": "Istighfar",
         "tag": [
             "istighfar",
@@ -593,7 +593,7 @@
         "link": "https://sunnah.com/tirmidhi:300"
     },
     {
-        "id": 20,
+        "id": "20",
         "doa": "Pengakuan Tauhid",
         "tag": [
             "tauhid"
@@ -612,7 +612,7 @@
         "link": "https://sunnah.com/tirmidhi:3474"
     },
     {
-        "id": 21,
+        "id": "21",
         "doa": "Mohon Jauhi Api Neraka",
         "tag": [
             "Neraka",
@@ -633,7 +633,7 @@
         "link": "https://sunnah.com/abudawud:5079"
     },
     {
-        "id": 22,
+        "id": "22",
         "doa": "Zikir Mohon Keselamatan",
         "tag": [
             "antassalam",
@@ -656,7 +656,7 @@
         "link": "https://sunnah.com/tirmidhi:300"
     },
     {
-        "id": 23,
+        "id": "23",
         "doa": "Ayat Kursi",
         "tag": [
             "kursi",
@@ -699,7 +699,7 @@
         "link": "https://muftiwp.gov.my/ms/artikel/irsyad-al-hadith/1446-irsyad-al-hadith-siri-ke-136-kelebihan-membaca-ayat-al-kursi"
     },
     {
-        "id": 24,
+        "id": "24",
         "doa": "Tasbih Tahmid Takbir",
         "tag": [
             "zikir",
@@ -727,7 +727,7 @@
         "link": "https://sunnah.com/muslim:597a"
     },
     {
-        "id": 25,
+        "id": "25",
         "doa": "Doa Sebelum Makan",
         "tag": [
             "makan",
@@ -749,7 +749,7 @@
         "link": "https://sunnah.com/bukhari:5376"
     },
     {
-        "id": 26,
+        "id": "26",
         "doa": "Doa Selepas Makan",
         "tag": [
             "makan",
@@ -771,7 +771,7 @@
         "link": "https://sunnah.com/tirmidhi:3457"
     },
     {
-        "id": 27,
+        "id": "27",
         "doa": "Doa Keluar Rumah",
         "tag": [
             "rumah",
@@ -792,7 +792,7 @@
         "link": "https://sunnah.com/abudawud:5095"
     },
     {
-        "id": 28,
+        "id": "28",
         "doa": "Doa Masuk Masjid/Surau",
         "tag": [
             "masjid",
@@ -814,7 +814,7 @@
         "link": "https://sunnah.com/muslim:713a"
     },
     {
-        "id": 29,
+        "id": "29",
         "doa": "Doa Keluar Masjid/Surau",
         "tag": [
             "masjid",
@@ -836,7 +836,7 @@
         "link": "https://sunnah.com/muslim:713a"
     },
     {
-        "id": 30,
+        "id": "30",
         "doa": "Doa Selepas Azan",
         "tag": [
             "azan",
@@ -870,7 +870,7 @@
         "link": "https://sunnah.com/bukhari:614"
     },
     {
-        "id": 31,
+        "id": "31",
         "doa": "Doa Selepas Wuduk",
         "tag": [
             "wuduk",
@@ -904,7 +904,7 @@
         "link": "https://sunnah.com/muslim:234a"
     },
     {
-        "id": 32,
+        "id": "32",
         "doa": "Doa Sembuh Penyakit",
         "tag": [
             "sakit",
@@ -938,7 +938,7 @@
         "link": "https://sunnah.com/bukhari:5743"
     },
     {
-        "id": 33,
+        "id": "33",
         "doa": "Doa Ketetapan Hati/Iman",
         "tag": [
             "tetap",
@@ -962,7 +962,7 @@
         "link": "https://sunnah.com/tirmidhi:3522"
     },
     {
-        "id": 34,
+        "id": "34",
         "doa": "Doa Kepada Ibu Bapa",
         "tag": [
             "ibu",
@@ -986,7 +986,7 @@
         "link": "https://quran.com/ms/ibrahim/41"
     },
     {
-        "id": 35,
+        "id": "35",
         "doa": "Doa Berlindung dari 4 perkara",
         "tag": [
             "seksa",
@@ -1021,7 +1021,7 @@
         "link": "https://sunnah.com/muslim:588a"
     },
     {
-        "id": 36,
+        "id": "36",
         "doa": "Doa Wasiat Rasullulah",
         "tag": [
             "syukur",
@@ -1043,7 +1043,7 @@
         "link": "https://sunnah.com/abudawud:1522"
     },
     {
-        "id": 37,
+        "id": "37",
         "doa": "Doa Buka Puasa",
         "tag": [
             "puasa",
@@ -1064,7 +1064,7 @@
         "link": "https://sunnah.com/abudawud:2358"
     },
     {
-        "id": 38,
+        "id": "38",
         "doa": "Doa Terlupa baca doa makan",
         "tag": [
             "minum",
@@ -1088,7 +1088,7 @@
         "link": "https://sunnah.com/abudawud:3767"
     },
     {
-        "id": 39,
+        "id": "39",
         "doa": "Selawat",
         "tag": [
             "selawat",
@@ -1110,7 +1110,7 @@
         "link": ""
     },
     {
-        "id": 40,
+        "id": "40",
         "doa": "Selawat Fatih",
         "tag": [
             "selawat",
@@ -1150,7 +1150,7 @@
         "link": ""
     },
     {
-        "id": 41,
+        "id": "41",
         "doa": "Selawat Syifa'",
         "tag": [
             "selawat",
@@ -1185,7 +1185,7 @@
         "link": ""
     },
     {
-        "id": 42,
+        "id": "42",
         "doa": "Selawat Tafrijiyyah",
         "tag": [
             "selawat",
@@ -1249,7 +1249,7 @@
         "link": ""
     },
     {
-        "id": 43,
+        "id": "43",
         "doa": "Selawat Peroleh Kedudukan Mulia",
         "tag": [
             "selawat",
@@ -1279,7 +1279,7 @@
         "link": ""
     },
     {
-        "id": 44,
+        "id": "44",
         "doa": "Doa Buka Puasa 2",
         "tag": [
             "puasa",
@@ -1300,7 +1300,7 @@
         "link": "https://sunnah.com/abudawud:2357"
     },
     {
-        "id": 45,
+        "id": "45",
         "doa": "Zikir Berat Timbangan",
         "tag": [
             "mizan",
@@ -1322,7 +1322,7 @@
         "link": "https://sunnah.com/riyadussalihin:1408"
     },
     {
-        "id": 46,
+        "id": "46",
         "doa": "Zikir 100 Kebaikan",
         "tag": [
             "kebaikan",
